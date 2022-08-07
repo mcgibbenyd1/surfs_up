@@ -18,7 +18,7 @@ Summary Statistics for June Temperatures
 </p>
 
 <p align="center">  
-<img src="https://github.com/mcgibbenyd1/surfs_up/blob/main/June_temps.png" width="45%"/>
+<img src="https://github.com/mcgibbenyd1/surfs_up/blob/main/June_temps.png" width="30%"/>
 </p>
 
 - From the Analysis of the December temperatures, as you can see below in the dataframe, the average temperature is around 71 degrees with a maximum temperature observed during the observations being 83 degrees and 56 being the minimum. 
@@ -28,10 +28,10 @@ Summary Statistics for December Temperatures
 </p>
 
 <p align="center">
-<img src="https://github.com/mcgibbenyd1/surfs_up/blob/main/December_Temps.png" width="45%"/>
+<img src="https://github.com/mcgibbenyd1/surfs_up/blob/main/December_Temps.png" width="30%"/>
 </p>   
 
--Comparing the the sets of data, there are more data point observed for the June monthes but overall the temperatures are consistent between the two monthes of observation with Decemeber showing a slightly lower temperature throughout the month than June.                                                         
+- Comparing the the sets of data, there are more data point observed for the June monthes but overall the temperatures are consistent between the two monthes of observation with Decemeber showing a slightly lower temperature throughout the month than June.                                                         
 
 ## Overall Summary
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.  
